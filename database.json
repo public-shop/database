@@ -1,10 +1,43 @@
 [
-    {
-        "name": "สินค้า 1",
-        "linkshopee": "aHR0cHM6Ly9zaG9wZWUuY29tL3Byb2R1Y3Qx" // ลิงก์ Shopee ที่เข้ารหัส Base64
+
+{
+
+        "id": 4,
+
+        "name": "เสื้อนักศึกษา",
+
+        "linkshopee": "https://shopee.co.th/product/123456789"
+
     },
+
+{
+
+        "id": 3,
+
+        "name": "เสื้อนักศึกษา",
+
+        "linkshopee": "https://shopee.co.th/product/123456789"
+
+    },
+
     {
-        "name": "สินค้า 2",
-        "linkshopee": "aHR0cHM6Ly9zaG9wZWUuY29tL3Byb2R1Y3Qy"
+
+        "id": 2,
+
+        "name": "เสื้อนักศึกษา",
+
+        "linkshopee": "https://shopee.co.th/product/123456789"
+
+    },
+
+    {
+
+        "id": 1,
+
+        "name": "กางเกงนักศึกษา",
+
+        "linkshopee": "https://shopee.co.th/product/987654321"
+
     }
+
 ]
